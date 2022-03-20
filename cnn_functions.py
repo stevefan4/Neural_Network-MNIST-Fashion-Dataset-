@@ -1,14 +1,7 @@
 ############################################################
-# CIS 521: Individual Functions for CNN
-############################################################
-
-student_name = "Steven Fandozzi"
-
-############################################################
 # Imports
 ############################################################
 
-# Include your imports here, if any are used.
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
